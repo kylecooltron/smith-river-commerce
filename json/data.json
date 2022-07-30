@@ -1,0 +1,107 @@
+{
+  "businesses": [
+    {
+      "name": "A&C Fisheries",
+      "address": "702 W Cobble Street",
+      "phone": "(320) 555-2017",
+      "website": "acfisheries.com",
+      "imageurl": "images/logo1AC.png",
+      "membership": "gold",
+      "slogan": "Steelhead fishing at it's finest."
+     },
+     {
+      "name": "Big Horn Lodge",
+      "address": "1008 S 2100 E",
+      "phone": "1 (800) 241-5622",
+      "website": "garysmod.com",
+      "imageurl": "images/logo2BL.png",
+      "membership": "silver",
+      "slogan": "Breakfast included."
+     },
+     {
+      "name": "Lola's Barbeque",
+      "address": "112 S 40 E",
+      "phone": "(320) 211-5522",
+      "website": "llbarbeque.com",
+      "imageurl": "images/logo3LB.png",
+      "membership": "silver",
+      "slogan": "Try our new Volcano Shrimp plate!"
+     },
+     {
+      "name": "Riverside Market",
+      "address": "96 Market St",
+      "phone": "(802) 211-1152",
+      "website": "rsmarket.org",
+      "imageurl": "images/logo4RM.png",
+      "membership": "bronze"
+     },
+     {
+      "name": "West Point Aquatics",
+      "address": "71 Galvan Pier",
+      "phone": "1 (800) 441-7512",
+      "website": "westpointaquatics.org",
+      "imageurl": "images/logo5WP.png",
+      "membership": "gold",
+      "slogan": "New baby dolphins!"
+     },
+     {
+      "name": "Big Raft Adventures",
+      "address": "9004 Brookside Road",
+      "phone": "1 (800) 241-5622",
+      "website": "bigraft.com",
+      "imageurl": "images/logo6BR.png",
+      "membership": "gold",
+      "slogan": "The ultimate river trip!"
+     },
+     {
+      "name": "Outdoor Escape Park",
+      "address": "107 S 30 E",
+      "phone": "1 (800) 241-5622",
+      "website": "escapervpark.com",
+      "imageurl": "images/logo7OO.png",
+      "membership": "gold",
+      "slogan": "Join our friendly community."
+     },
+     {
+      "name": "Belle's Fine Cuisine",
+      "address": "108 S 30 E",
+      "phone": "1 (800) 241-5622",
+      "website": "bellesrestaurant.com",
+      "imageurl": "images/logo8BF.png",
+      "membership": "silver",
+      "slogan": "Best food in town."
+     },
+     {
+      "name": "Yugi Spa",
+      "address": "134 S 2100 E",
+      "phone": "1 (800) 241-5622",
+      "website": "yugi.com",
+      "imageurl": "images/logo9Y.png",
+      "membership": "basic"
+     },
+     {
+      "name": "Peak Security",
+      "address": "105 S Woodland Dr",
+      "phone": "1 (800) 664-5311",
+      "website": "peaksecurity.com",
+      "imageurl": "images/logo10PS.png",
+      "membership": "bronze"
+     },
+     {
+      "name": "Fazt Delivery",
+      "address": "2024 Blank Circle",
+      "phone": "1 (949) 156-5696",
+      "website": "Fazt.diliveries.com",
+      "imageurl": "images/logo11FD.png",
+      "membership": "basic"
+     },
+     {
+      "name": "Lotus Club",
+      "address": "107 S Main St",
+      "phone": "Not Available",
+      "website": "LotusClub.org",
+      "imageurl": "images/logo12LC.png",
+      "membership": "gold",
+      "slogan": "Pai Sho is more than just a game."
+     }]
+  }
